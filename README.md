@@ -14,7 +14,7 @@ Organizes all the data in one place for easy access
 ## Installation
 To install the Crypto Investment Tracker app, follow these steps:
 
-Clone the repository: git clone https://github.com/username/repo.git
+Clone the repository: git clone https://github.com/Valdins/Project_CryptoInvestmentTracker.git
 Open the project in Visual Studio
 Build and run the project
 
